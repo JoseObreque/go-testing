@@ -1,4 +1,4 @@
-module testdoubles
+module integrationtests
 
 go 1.16
 

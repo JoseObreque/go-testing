@@ -1,0 +1,6 @@
+mode: set
+integrationtests/shark/white_shark.go:17.13,19.2 1 1
+integrationtests/shark/white_shark.go:30.49,31.95 1 1
+integrationtests/shark/white_shark.go:31.95,34.3 2 1
+integrationtests/shark/white_shark.go:35.2,35.24 1 1
+integrationtests/shark/white_shark.go:38.90,44.2 1 1
